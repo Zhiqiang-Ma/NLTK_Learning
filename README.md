@@ -1,37 +1,29 @@
-## Welcome to NLTK_learning Pages
+## Welcome to NLTK_learning 
 
-You can use the [editor on GitHub](https://github.com/Zhiqiang-Ma/NLTK_Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+NLTK_1 
+	Part one : import NLTK
+		Part two : Basic operation of  word list
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zhiqiang-Ma/NLTK_Learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		NLTK_2
+			Part one : Introduction of corpus
+				Part two : ConditionFreqDist and plot
+					Part three : stopwords and dict
+					NLTK_3
+						Part one : download data
+							Part two: Regexp's showing time
+								Part three : Text normalization
+									Part four : Operation of list and string
+									NLTK_4
+										Part one: Using of jieba tokenizer
+										NLTK_5
+											Part one : Parts of Speech Tagging (POS Tagging)
+												Part two : Auto-labeling and regexp-Labeling
+													Part three : N-gram labeling
+														
+														NLTK_6 
+															Part one : Naive Beyes classfier with NLTK 
+															NLTK_7
+																Part one : Part one : Document classification using NLTK
+																	Part two : Sequence classification
+																		Part three : Sentence segmentation
+																			Part Four : Results Assessment
