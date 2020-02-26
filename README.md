@@ -36,6 +36,9 @@ Part one : Naive Beyes classfier with NLTK
 
 ### NLTK_7
 Part one : Part one : Document classification using NLTK
+
 Part two : Sequence classification
+
 Part three : Sentence segmentation
+
 Part Four : Results Assessment
